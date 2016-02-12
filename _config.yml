@@ -1,0 +1,28 @@
+name: mLai.ch
+favicon: null
+layout_spectrum: 0.005243658786639571
+typography_spectrum: 0.9069977027829736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.570082938997075
+  lightness: 0.11202262528240681
+  saturation: 0.004853666527196765
+  rhythmicContrast: 0.6972262007184327
+purpose: []
